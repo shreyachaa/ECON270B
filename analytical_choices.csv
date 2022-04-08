@@ -1,0 +1,2 @@
+﻿entry_id,file_name,line_number,choice_type,choice_value,choice_range,source
+1,Table6_final,590,data sub-setting,"IV, removing one region group at a time","AFR, EAP, ECA, INL, LAC, MNA, SAS ",original

@@ -1,0 +1,4 @@
+﻿analytic_data,location,description
+DDCGdata_final.dta,/replication_files_ddcg/,country-year panel with all relevant variables used for the analysis. This dataset is used for the main analysis.
+borders_countries.dta,/replication_files_ddcg/geo_data,country boundaries - shape file
+coordinates_countries.dta,/replication_files_ddcg/geo_data,country coordinates - shape file

@@ -1,0 +1,3 @@
+﻿file_name,location,inputs,outputs,description,primary_type
+Table6_final,/replication_files_ddcg/do_files/,DDCGdata_final.dta,Table 6,"estimates and reports IV, first stage and HHK estimates",
+Table8_final,/replication_files_ddcg/do_files/,DDCGdata_final.dta,Table 8,estimates and reports heterogeneity in dynamic panel estimates,
